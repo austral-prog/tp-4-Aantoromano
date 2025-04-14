@@ -14,7 +14,7 @@ def line():
     print(f"\tY = {A}X + {B}")
 
     print()
-    print (f'\tDados los siguientes puntos:')
+    print (f'Dados los siguientes puntos:')
 
     Y1= (A * X1) + B #110.99999
     Y2= (A * X2) + B #-79.6699999
