@@ -11,7 +11,7 @@ def line():
 
     print()
     print('Para la siguiente ecuación:')
-    print(f"\t Y= {A}X + {B}")
+    print(f"\tY= {A}X + {B}")
 
     print()
     print (f'\tDados los siguientes puntos:')
